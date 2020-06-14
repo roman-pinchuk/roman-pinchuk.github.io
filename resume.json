@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Roman Pinchuk",
+    "label": "Full Stack Developer",
+    "picture": "https://roman-pinchuk.github.io/me/images/about.png",
+    "email": "pinchuk.roman@outlook.com",
+    "phone": "+972586293664",
+    "website": "https://roman-pinchuk.github.io/me",
+    "summary": "High-level self-learning skills. Team player, able to cooperate and collaborate with coworkers in various departments to complete projects promptly. Complex problem-solving skills allow me to quickly find solutions to arising issues. I was on both sides of the development. Since I have two educations, I understand perfectly well the connection between business processes and their implementation. And yes, I can read and understand a documentation and manuals.",
+    "location": {
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "MblCJluTeJlb",
+        "url": "http://twitter.com/MblCJluTeJlb"
+      },
+      {
+        "network": "Instagram",
+        "username": "iramzesi",
+        "url": "https://www.instagram.com/iramzesi/"
+      },
+      {
+        "network": "Facebook",
+        "username": "Roman.Pinchuk",
+        "url": "https://www.facebook.com/Roman.Pinchuk"
+      },
+      {
+        "network": "GitHub",
+        "username": "roman-pinchuk",
+        "url": "https://github.com/roman-pinchuk"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "roman-pinchuk",
+        "url": "https://www.linkedin.com/in/roman-pinchuk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Remote Project (Cyprus)",
+      "position": "JavaScript Developer",
+      "website": "",
+      "startDate": "2019-04-01",
+      "endDate": "2020-02-01",
+      "summary": "This project was a module for a large company. I builded a customer support system. Some questions were solved in a chat room with the help of a bot, as well as the possibility to contact a real person.",
+      "highlights": [
+        "I developed a support customer system based on Quasar and Zammad",
+        "GitLab CI/CD was applied throughout the project (used YAML)",
+        "Communicate with UI/UX designer, pm, DevOps, backend member and develop new product"
+      ]
+    },
+    {
+      "company": "Compulsory Medical Insurance Fund of Russia",
+      "position": "JavaScript Developer",
+      "website": "http://www.ffoms.ru",
+      "startDate": "2017-01-01",
+      "endDate": "2018-08-01",
+      "summary": "I was involved in supporting and developing the existing information system for planned hospitalization in St. Petersburg. In the project I used PostgreSQL, jQuery, Camunda BPMN. Initially I came to the position of System Analyst, but soon I moved to the development department as I saw a lot of defects.",
+      "highlights": [
+        "Embedded JasperReports for Camunda BPMN",
+        "Created automation tests by using Selenium and Python",
+        "Ensuring the performance and fault tolerance of the information system with more than 7,500 users",
+        "Created DBMS PostgreSQL from open-source kernel"
+      ]
+    },
+    {
+      "company": "State Unitary Enterprise “St. Petersburg Information and Analytical Center”",
+      "position": "Systems Analyst",
+      "website": "https://iac.spb.ru",
+      "startDate": "2016-04-01",
+      "endDate": "2016-12-01",
+      "summary": "I was in the analytics department as a systems analyst. My task was to analyze existing business processes and prepare interface prototypes.",
+      "highlights": [
+        "Prototyped UI/UX for existing and future features using best practices and guidelines by Apple and Google",
+        "Implemented his development of the transfer of old public services to a new portal of public services in St.-Petersburg",
+        "Wrote and prepared technical documentation for the IDEF0 development department in the UML notation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Russian State Hydrometeorological University, RU",
+      "area": "Applied Computer Science",
+      "studyType": "BSc",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-01",
+      "gpa": "98.2"
+    },
+    {
+      "institution": "Technical College of Management and Commerce, RU",
+      "area": "Software of Computing and Automation Systems",
+      "studyType": "Technician",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "96"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Shuk bargain"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ]
+}
