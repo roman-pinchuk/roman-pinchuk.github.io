@@ -5,7 +5,7 @@
     "picture": "https://roman-pinchuk.github.io/me/images/about.png",
     "email": "pinchuk.roman@outlook.com",
     "phone": "+972586293664",
-    "website": "https://roman-pinchuk.github.io/me",
+    "website": "https://keepstance.com",
     "summary": "High-level self-learning skills. Team player, able to cooperate and collaborate with coworkers in various departments to complete projects promptly. Complex problem-solving skills allow me to quickly find solutions to arising issues. I was on both sides of the development. Since I have two educations, I understand perfectly well the connection between business processes and their implementation. And yes, I can read and understand a documentation and manuals.",
     "location": {
       "city": "Haifa",
@@ -95,17 +95,17 @@
       "institution": "Technical College of Management and Commerce, RU",
       "area": "Software of Computing and Automation Systems",
       "studyType": "Technician",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
       "gpa": "96"
     }
   ],
   "awards": [
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "Top 5",
+      "date": "2020-04-07",
+      "awarder": "Hackorona supported by Microsoft" ,
+      "summary": "KEEPSTANCE is a project in which I was involved as a Full Stack developer. It is a cross-platform application and SDK to determine the distance between devices based on BLE and iBeacon." 
     }
   ],
   "skills": [
@@ -118,11 +118,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional"
+      "fluency": "Fluent"
     },
     {
       "language": "Hebrew",
-      "fluency": "Basic"
+      "fluency": "Intermediate"
     },
     {
       "language": "Russian",
