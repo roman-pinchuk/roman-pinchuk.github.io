@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/roman-pinchuk/roman-pinchuk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/roman-pinchuk/roman-pinchuk.github.io/actions/workflows/pages/pages-build-deployment)
